@@ -1,0 +1,821 @@
+{
+"language":"English",
+"@language":{
+"description":"The current language"
+},
+"selectYourLanguage":"Select your language",
+"@selectYourLanguage":{
+"description":"The current language"
+},
+"settings":"Settings",
+"@settings":{
+"description":"The current language"
+},
+"welcome":"Welcome",
+"@welcome":{
+"description":"The current language"
+},
+"getStarted":"LET'S GET STARTED",
+"@getStarted":{
+"description":"The current language"
+},
+"start":"Start",
+"@start":{
+"description":"The current language"
+},
+"loginOrCreateAccount":"Login or create account",
+"@loginOrCreateAccount":{
+"description":"The current language"
+},
+"takeTestsAndPlayGames":"Take tests and play games.",
+"@takeTestsAndPlayGames":{
+"description":"The current language"
+},
+"patient":"Patient",
+"@patient":{
+"description":"The current language"
+},
+"caregiver":"Caregiver",
+"@caregiver":{
+"description":"The current language"
+},
+"doctor":"Doctor",
+"@doctor":{
+"description":"The current language"
+},
+"email":"Email",
+"@email":{
+"description":"The current language"
+},
+"password":"Password",
+"@password":{
+"description":"The current language"
+},
+"signIn":"Sign In",
+"@signIn":{
+"description":"The current language"
+},
+"signUp":"Sign Up",
+"@signUp":{
+"description":"The current language"
+},
+"accountCreatedSuccessfully":"Account created successfully :) ",
+"@accountCreatedSuccessfully":{
+"description":"The current language"
+},
+"dontHaveAccount":"Don't have an account",
+"@dontHaveAccount":{
+"description":"The current language"
+},
+"resetPassword":"Reset Password",
+"@resetPassword":{
+"description":"The current language"
+},
+"firstName":"First name",
+"@firstName":{
+"description":"The current language"
+},
+"secondName":"Second name",
+"@secondName":{
+"description":"The current language"
+},
+"secondNameCannotBeEmpty":"Second Name cannot be Empty",
+"@secondNameCannotBeEmpty":{
+"description":"The current language"
+},
+"pleaseEnterYourEmail":"Please Enter Your Email",
+"@pleaseEnterYourEmail":{
+"description":"The current language"
+},
+"confirmPassword":"Confirm password",
+"@confirmPassword":{
+"description":"The current language"
+},
+"forgetPassword":"Forget password",
+"@forgetPassword":{
+"description":"The current language"
+},
+"enterEmailToResetPass":"Enter your email below to reset your password",
+"@enterEmailToResetPass":{
+"description":"The current language"
+},
+"loginSuccessful":"Login Successful",
+"@loginSuccessful":{
+"description":"The current language"
+},
+"selectProfilePicture":"Select profile picture",
+"@selectProfilePicture":{
+"description":"The current language"
+},
+"camera":"Camera",
+"@camera":{
+"description":"The current language"
+},
+"gallery":"Gallery",
+"@gallery":{
+"description":"The current language"
+},
+"firstNameCannotBeEmpty":"First Name cannot be Empty",
+"@firstNameCannotBeEmpty":{
+"description":"The current language"
+},
+"validName":"Enter Valid name(Min. 3 Character)",
+"@validName":{
+"description":"The current language"
+},
+"validEmail":"Please Enter a valid email",
+"@validEmail":{
+"description":"The current language"
+},
+"passwordRequired":"Password is required",
+"@passwordRequired":{
+"description":"The current language"
+},
+"currentPassword":"Enter Current Password",
+"@currentPassword":{
+"description":"The current language"
+},
+"numOfCharInPass":"Enter Valid Password(Min. 6 Character)",
+"@numOfCharInPass":{
+"description":"The current language"
+},
+"enterNewPass":"Enter New Password",
+"@enterNewPass":{
+"description":"The current language"
+},
+"changePass":"Change Password",
+"@changePass":{
+"description":"The current language"
+},
+"passMatch":"Password don't match",
+"@passMatch":{
+"description":"The current language"
+},
+"addDoctor":"Add a Doctor",
+"@addDoctor":{
+"description":"The current language"
+},
+"addCaregiver":"Add a Caregiver",
+"@addCaregiver":{
+"description":"The current language"
+},
+"skip":"Skip",
+"@skip":{
+"description":"The current language"
+},
+"testAndGames":"Test and Games",
+"@testAndGames":{
+"description":"The current language"
+},
+"test":"Test",
+"@test":{
+"description":"The current language"
+},
+"games":"Games",
+"@games":{
+"description":"The current language"
+},
+"myDailyActivities":"My Daily Activities",
+"@myDailyActivities":{
+"description":"The current language"
+},
+"drugs":"Drugs",
+"@drugs":{
+"description":"The current language"
+},
+"youWin":"you win",
+"@youWin":{
+"description":"The current language"
+},
+"close":"Close",
+"@close":{
+"description":"The current language"
+},
+"move":"Move",
+"@move":{
+"description":"The current language"
+},
+"toDoList":"To Do List",
+"@toDoList":{
+"description":"The current language"
+},
+"notification":"Notification",
+"@notification":{
+"description":"The current language"
+},
+"emergency":"Emergency",
+"@emergency":{
+"description":"The current language"
+},
+"fastmessages":"  Fast Messages",
+"@emergency":{
+"description":"The current language"
+},
+"proofOfLife":"Proof of life",
+"@proofOfLife":{
+"description":"The current language"
+},
+"shareLocation":"  Share Location",
+"@shareLocation":{
+"description":"The current language"
+},
+"aboutYou":"About You",
+"@aboutYou":{
+"description":"The current language"
+},
+"memories":"Memories",
+"@memories":{
+"description":"The current language"
+},
+"favorites":"Favorite Places",
+"@favorites":{
+"description":"The current language"
+},
+"learnAboutAlz":"About Alzheimer",
+"@learnAboutAlz":{
+"description":"The current language"
+},
+"myLocation":"My Location",
+"@myLocation":{
+"description":"The current language"
+},
+"tapDownToShareLocation":"Tap down on the map to Share your Location",
+  "@tapDownToShareLocation":{
+  "description":"The current language"
+  },
+
+"noPatientToBeDisplayed":"There is no patients to be displayed",
+"@noPatientToBeDisplayed":{
+ "description":"The current language"
+  },
+  "player":"Player",
+  "@player":{
+   "description":"The current language"
+    },
+  "undecidedGame":"Undecided Game",
+  "@undecidedGame":{
+   "description":"The current language"
+    },
+  "won":"Won",
+  "@won":{
+   "description":"The current language"
+    },
+"chatbot":"Chatbot",
+"@chatbot":{
+"description":"The current language"
+},
+"settings":"Settings",
+"@settings":{
+"description":"The current language"
+},
+"account":"Account",
+"@account":{
+"description":"The current language"
+},
+"sendRequest":"Send Request",
+"@sendRequest":{
+"description":"The current language"
+},
+"request":"Request",
+"@request":{
+"description":"The current language"
+},
+"delete":"Delete",
+"@delete":{
+"description":"The current language"
+},
+"accept":"Accept",
+"@accept":{
+"description":"The current language"
+},
+"noRequest":"No requests yet",
+"@noRequest":{
+"description":"The current language"
+},
+"errorOccuredTryLater":"An error occurred please try again later",
+"@errorOccuredTryLater":{
+"description":"The current language"
+},
+"videoSaved":"Video saved",
+"@videoSaved":{
+"description":"The current language"
+},
+"save":"Save",
+"@save":{
+"description":"The current language"
+},
+"points":"Points",
+"@points":{
+"description":"The current language"
+},
+"replay":"Replay",
+"@replay":{
+"description":"The current language"
+},
+"exit":"Exit",
+"@exit":{
+"description":"The current language"
+},
+"wrongChoice":"wrong choice",
+"@wrongChoice":{
+"description":"The current language"
+},
+"passHasBeenChanged":"Your Password has been changed....Login again",
+"@passHasBeenChanged":{
+"description":"The current language"
+},
+"changePassword":"Change Password",
+"@changePassword":{
+"description":"The current language"
+},
+"language":"Language",
+"@language":{
+"description":"The current language"
+},
+"signOut":"SIGN OUT",
+"@signOut":{
+"description":"The current language"
+},
+"confirm":"confirm",
+"@confirm":{
+"description":"The current language"
+},
+"chooseAGame":"Choose a Game",
+"@chooseAGame":{
+"description":"The current language"
+},
+"discoverMoreGames":"Discover More Games",
+"@discoverMoreGames":{
+"description":"The current language"
+},
+"noDrugsYet":"No Drugs yet",
+"@noDrugsYet":{
+"description":"The current language"
+},
+"drugsReminder":"Drugs Reminder",
+"@drugReminder":{
+"description":"The current language"
+},
+"noTasksYet":"No Tasks yet",
+"@noTasksYet":{
+"description":"The current language"
+},
+"tasks":"Tasks",
+"@tasks":{
+"description":"The current language"
+},
+"toDayDo":"ToDayDo",
+"@toDayDo":{
+"description":"The current language"
+},
+"callMe":"Call me",
+"@callMe":{
+"description":"The current language"
+},
+"whatIsMyNextPill":"What is my next pill?",
+"@whatIsMyNextPill":{
+"description":"The current language"
+},
+"yourNextPill":"Your're next pill is: ",
+"@yourNextPill":{
+"description":"The current language"
+},
+"youDontHaveAnyPill":"You don't need to take any pill yet!",
+"@youDontHaveAnyPill":{
+"description":"The current language"
+},
+"findWayToHome":"I can't find my way home",
+"@findWayToHome":{
+"description":"The current language"
+},
+"iamGood":"I am good",
+"@iamGood":{
+"description":"The current language"
+},
+"iwillSleep":"I will sleep",
+"@iwillSleep":{
+"description":"The current language"
+},
+"screen2Paragraph":"Alzheimer's Care System is a mobile application that is used in order to help Alzheimer's patients. It is also to facilitate interaction between doctors, caregivers, and patients.",
+"@screen2Paragraph":{
+"description":"The current language"
+},
+"images":"Images",
+"@images":{
+"description":"The current language"
+},
+"imageSaved":"Image saved",
+"@imageSaved":{
+"description":"The current language"
+},
+"videos":"Videos",
+"@videos":{
+"description":"The current language"
+},
+"playVideo":"Video Play",
+"@playVideo":{
+"description":"The current language"
+},
+"places":"Places",
+"@places":{
+"description":"The current language"
+},
+"addPlaces":"Add a place",
+"@addPlaces":{
+"description":"The current language"
+},
+"colors":"Colors",
+"@colors":{
+"description":"The current language"
+},
+"loading":"Loading",
+"@loading":{
+"description":"The current language"
+},
+"food":"Food",
+"@food":{
+"description":"The current language"
+},
+"drinks":"Drinks",
+"@drinks":{
+"description":"The current language"
+},
+"alzheimerCareSystem":"Alzheimer Care System",
+"@alzheimerCareSystem":{
+"description":"The current language"
+},
+"q1":"What level of memory loss is the individual experiencing?",
+"@q1":{
+"description":"The current language"
+},
+"q1Ans1":"No loss of memory or sporadic forgetfulness.",
+"@q1Ans1":{
+"description":"The current language"
+},
+"q1Ans2":"Consistent forgetfulness and partial recollection of events (which they may have fully recollected in the past).",
+"@q1Ans2":{
+"description":"The current language"
+},
+"q1Ans3":"Moderate memory loss that impacts recent events more severely than distant memories. Memory loss impacts daily activities.",
+"@q1Ans3":{
+"description":"The current language"
+},
+"q1Ans4":"Severe memory loss, recollection of recent events limited, long term memories may be retained but incomplete.",
+"@q1Ans4":{
+"description":"The current language"
+},
+"q1Ans5":"Severe memory loss, almost no recollection of recent events and highly fragmented long-term memory.",
+"@q1Ans5":{
+"description":"The current language"
+},
+
+
+
+"q2":"What level of time and geographic disorientation is the individual experiencing?",
+"@q2":{
+"description":"The current language"
+},
+"q2Ans1":"No disorientation.",
+"@q2Ans1":{
+"description":"The current language"
+},
+"q2Ans2":"Minor difficulty with time relationships (such as the order of events or distortion of fixed time periods such as minutes, hours or an afternoon).",
+"@q2Ans2":{
+"description":"The current language"
+},
+"q2Ans3":"Moderate difficulty with time relationships and occasional geographic disorientation (such as getting lost within an area well-known to the person).",
+"@q2Ans3":{
+"description":"The current language"
+},
+"q2Ans4":"Severe difficulty with time relationships; disoriented to time and place on a daily basis.",
+"@q2Ans4":{
+"description":"The current language"
+},
+"q2Ans5":"Oriented to present moment only or to their present moment.",
+"@q2Ans5":{
+"description":"The current language"
+},
+
+
+
+
+
+
+"q3":"Is the individual having challenges with judgement and product solving?",
+"@q3":{
+"description":"The current language"
+},
+"q3Ans1":"Shows no diminished ability in handling problems, business and financial affairs.",
+"@q3Ans1":{
+"description":"The current language"
+},
+"q3Ans2":"Shows minor impairment in judgment and with solving problems relative to past performance on similar tasks.",
+"@q3Ans2":{
+"description":"The current language"
+},
+"q3Ans3":"Has moderate difficulty in handling problems, may show occasional social judgment issues.",
+"@q3Ans3":{
+"description":"The current language"
+},
+"q3Ans4":"Has severe difficulty in handling problems and presents persistent social judgment issues.",
+"@q3Ans4":{
+"description":"The current language"
+},
+"q3Ans5":"Completely unable to make judgments or solve problems.",
+"@q3Ans5":{
+"description":"The current language"
+},
+
+
+"q4":"How does the individual function in their community, outside of their home?",
+"@q4":{
+"description":"The current language"
+},
+"q4Ans1":"They function independently continuing to shop, volunteer and socialize as they have in the past.",
+"@q4Ans1":{
+"description":"The current language"
+},
+"q4Ans2":"They show slight impairment in shopping and socializing but can do so with minor assistance.",
+"@q4Ans2":{
+"description":"The current language"
+},
+"q4Ans3":"Unable to function independently outside the home but can appear normal to a casual observer.",
+"@q4Ans3":{
+"description":"The current language"
+},
+"q4Ans4":"Unable to function independently outside the home but functions well enough to be taken to some functions.",
+"@q4Ans4":{
+"description":"The current language"
+},
+"q4Ans5":"Cannot be taken outside the home without constant monitoring.",
+"@q4Ans5":{
+"description":"The current language"
+},
+
+
+"q5":"How does the individual function within their home with chores and hobbies? (Do not consider personal hygiene in this question).",
+"@q5":{
+"description":"The current language"
+},
+"q5Ans1":"They continue to complete in-home chores, pursue hobbies and maintain interests as they have always done.",
+"@q5Ans1":{
+"description":"The current language"
+},
+"q5Ans2":"They continue to perform chores and pursue interests but with some challenges due to cognitive issues.",
+"@q5Ans2":{
+"description":"The current language"
+},
+"q5Ans3":"They have given up performing more complex chores and interests but still pursue simpler ones.",
+"@q5Ans3":{
+"description":"The current language"
+},
+"q5Ans4":"They can perform only simple chores and may not do so correctly.",
+"@q5Ans4":{
+"description":"The current language"
+},
+"q5Ans5":"They have no significant function within the home.",
+"@q5Ans5":{
+"description":"The current language"
+},
+
+
+
+
+"q6":"What level of personal hygiene and personal care does the individual maintain?",
+"@q6":{
+"description":"The current language"
+},
+"q6Ans1":"They are fully capable of self-care and do so without prompting.",
+"@q6Ans1":{
+"description":"The current language"
+},
+"q6Ans2":"They are fully capable of self-care",
+"@q6Ans2":{
+"description":"The current language"
+},
+"q6Ans3":"They are capable of self-care but may require the occasional prompt and assistance with clothing decisions.",
+"@q6Ans3":{
+"description":"The current language"
+},
+"q6Ans4":"They require significant assistance with self-care, frequent prompting and have difficulty keeping track of their personal effects.",
+"@q6Ans4":{
+"description":"The current language"
+},
+"q6Ans5":"They require daily assistance with hygiene, personal care and are frequently incontinent.",
+"@q6Ans5":{
+"description":"The current language"
+},
+
+
+"patientDrugs":"Patient Drugs",
+"@patientDrugs":{
+"description":"Drugs taken by the patient"
+},
+
+"drugReminder":"Drug Reminder",
+"@drugReminder":{
+"description":"Drug time serves as a reminder"
+},
+"usersList":"Users List",
+"@usersList":{
+"description":"Drug time serves as a reminder"
+},
+"play":"Play",
+"@play":{
+"description":"Drug time serves as a reminder"
+},
+"pressToRestartTheGame":"Press to Restart the Game",
+"@pressToRestartTheGame":{
+"description":"Drug time serves as a reminder"
+},
+"restart":"Restart",
+"@restart":{
+"description":"Drug time serves as a reminder"
+},
+"theresNoPatientToBeDisplayed":"there's no patient to be displayed",
+"@theresNoPatientToBeDisplayed":{
+"description":"Drug time serves as a reminder"
+},
+"patientToDoList":"Patient to Do List",
+"@patientToDoList":{
+"description":"Drug time serves as a reminder"
+},
+
+"myFavoritePlaces":"My Favorite Places",
+"@myFavoritePlaces":{
+"description":"Drug time serves as a reminder"
+},
+"chat":"Chat",
+"@chat":{
+"description":"Drug time serves as a reminder"
+},
+"chatrequest":"Chat and Requests",
+"@patientDrugs":{
+"description":"Drugs taken by the patient"
+},
+"requests":"Requests",
+"@requests":{
+"description":"Drug time serves as a reminder"
+},
+"noRequestsYet":"No Requests yet",
+"@noRequestsYet":{
+"description":"Drug time serves as a reminder"
+},
+"newReminder":"New Reminder",
+"@newReminder":{
+"description":"Drug time serves as a reminder"
+},
+"medicineName":"Medicine name",
+"@medicineName":{
+"description":"Drug time serves as a reminder"
+},
+"edit":"Edit",
+"@edit":{
+"description":"Drug time serves as a reminder"
+},
+"panadol":"Panadol",
+"@panadol":{
+"description":"Drug time serves as a reminder"
+},
+"type":"Type",
+"@type":{
+"description":"Drug time serves as a reminder"
+},
+"scheduleTime":"Schedule Time",
+"@scheduleTime":{
+"description":"Drug time serves as a reminder"
+},
+"duration":"Duration",
+"@duration":{
+"description":"Drug time serves as a reminder"
+},
+"useItFor3Month":"Use it for 3 month",
+"@useItFor3Month":{
+"description":"Drug time serves as a reminder"
+},
+"set":"Set",
+"@set":{
+"description":"Drug time serves as a reminder"
+},
+"setReminder":"Set Reminder",
+"@setReminder":{
+"description":"Drug time serves as a reminder"
+},
+"sharedLocationPatient":"No patients have shared their location yet!",
+"@sharedLocationPatient":{
+"description":"Drug time serves as a reminder"
+},
+
+"drops":"Drops",
+"@drops":{
+"description":"Drug time serves as a reminder"
+},
+"capsules":"Capsules",
+"@capsules":{
+"description":"Drug time serves as a reminder"
+},
+"liquid":"Liquid",
+"@liquid":{
+"description":"Drug time serves as a reminder"
+},
+"ointment":"ointment",
+"@ointment":{
+"description":"Drug time serves as a reminder"
+},
+"patientDiseaseHistory":"Patient Disease History",
+"@patientDiseaseHistory":{
+"description":"Drug time serves as a reminder"
+},
+"files":"Files",
+"@files":{
+"description":"Drug time serves as a reminder"
+},
+
+"yourNotes":"Your Notes",
+"@yourNotes":{
+"description":"Drug time serves as a reminder"
+},
+"flippingCards":"Flipping cards",
+"@yourNotes":{
+"description":"Drug time serves as a reminder"
+},
+"slidingPuzzle":"Sliding Puzzle",
+"@yourNotes":{
+"description":"Drug time serves as a reminder"
+},
+"ticTacToe":"Tic Tac Toe",
+"@yourNotes":{
+"description":"Drug time serves as a reminder"
+},
+"drugList":"Drug List",
+"@yourNotes":{
+"description":"Drug time serves as a reminder"
+},
+"noNotes":"You have not added any notes yet!",
+"@noNotes":{
+"description":"Drug time serves as a reminder"
+},
+"add":"Add",
+"@add":{
+"description":"Drug time serves as a reminder"
+},
+"addTask":"Add Task",
+"@addTask":{
+"description":"Drug time serves as a reminder"
+},
+"addNote":"Add a Note",
+"@addNote":{
+"description":"Drug time serves as a reminder"
+},
+"send":"Send",
+"@send":{
+"description":"Drug time serves as a reminder"
+},
+"writeYourMessage":"Write your message here....",
+"@writeYourMessage":{
+"description":"Drug time serves as a reminder"
+},
+
+
+"res1":"Based on your answers and the CDR-SOB scale, the individual has no cognitive impairment.!",
+"@res1":{
+"description":"Drug time serves as a reminder"
+},
+"res2":"Based on your answers and the CDR-SOB scale, the individual has a questionable or very mild dementia!",
+"@res2":{
+"description":"Drug time serves as a reminder"
+},
+"res3":"Based on your answers and the CDR-SOB scale, the individual has mild dementia!",
+"@res3":{
+"description":"Drug time serves as a reminder"
+},
+"res4":"Based on your answers and the CDR-SOB scale, the individual has moderate dementia!",
+"@res4":{
+"description":"Drug time serves as a reminder"
+},
+"res5":"Based on your answers and the CDR-SOB scale, the individual has severe dementia!",
+"@res5":{
+"description":"Drug time serves as a reminder"
+},
+
+"restartQuiz":"Restart Quiz!",
+"@restartQuiz":{
+"description":"Drug time serves as a reminder"
+},
+
+
+
+
+"moreQuestion":"We have more questions!",
+"@moreQuestion":{
+"description":"Drug time serves as a reminder"
+},
+"noMoreQuestion":"We have more questions!",
+"@moreQuestion":{
+"description":"Drug time serves as a reminder"
+},
+ "confirm":"Confirm",
+ "@confirm":{
+ "description":"Drug time serves as a reminder"
+ }
+}

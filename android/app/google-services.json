@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795757289740",
+    "project_id": "alzheimercaresystem",
+    "storage_bucket": "alzheimercaresystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795757289740:android:cfa5e2aa62d56673ef2929",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795757289740-bg3rftgd06903h37282dnepli00ffa9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxc9qY0xmAZqnJpS2Fz-RjGks0138liOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795757289740-bg3rftgd06903h37282dnepli00ffa9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
