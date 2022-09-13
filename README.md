@@ -37,6 +37,7 @@ have an appropriate answer.
 If the question is static and the chatbot has that question in its database, it checks which intent will match this question to return the answer directly. 
 
 ![](flowChart.png)
+
 ![](aaa.png)
 
 ## Features
